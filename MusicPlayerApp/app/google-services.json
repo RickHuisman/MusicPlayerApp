@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "658073029524",
+    "firebase_url": "https://audioplayer-master.firebaseio.com",
+    "project_id": "audioplayer-master",
+    "storage_bucket": "audioplayer-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658073029524:android:8b869afc79049c41",
+        "android_client_info": {
+          "package_name": "com.valdioveliu.valdio.audioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658073029524-9lcf08pf75038vqlktjlfuk6d8l96g3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valdioveliu.valdio.audioplayer",
+            "certificate_hash": "038e696ec94856043ac57ccf3ebc79014fab1478"
+          }
+        },
+        {
+          "client_id": "658073029524-htgbhnbbropfo03r5t73jbpnl8jhp00c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbhswoRQHEuX03I-Lwm6lstqJynYFO3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658073029524-htgbhnbbropfo03r5t73jbpnl8jhp00c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658073029524:android:b38173a3910f2068",
+        "android_client_info": {
+          "package_name": "com.example.rickh.musicplayerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658073029524-ksmiqljetj97qt594v0j34auce712fs3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rickh.musicplayerapp",
+            "certificate_hash": "038e696ec94856043ac57ccf3ebc79014fab1478"
+          }
+        },
+        {
+          "client_id": "658073029524-htgbhnbbropfo03r5t73jbpnl8jhp00c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPbhswoRQHEuX03I-Lwm6lstqJynYFO3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658073029524-htgbhnbbropfo03r5t73jbpnl8jhp00c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
